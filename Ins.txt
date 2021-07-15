@@ -1,0 +1,25 @@
+Rules(Classic)
+Goal of the game is to get required number of coins,
+within the stipulated time limit.
+Gold Coin= 1 coin point
+Red Coin = 2 coin point
+Black Bomb = 2 coin point penalty and 1 life lost
+Green Bonus = 2 coins bonus, +1 life and +30 second time increment
+You lose if time runs out or you lose all lives
+------------------
+Rules(Freeplay)
+No timer, Score as high as possible, No green bonus coin
+Game ends when you miss a coin.
+------------------
+Controls:
+1. W increases angle of release of lasso
+2. S decreases angle of release of lasso
+3. A decreases speed(not allowed in hard mode)
+4. D increases speed(not allowed in hard mode)
+5. T throws lasso
+6. L is used to loop lasso to catch coin/bomb when nearby
+7. Y pulls lasso back to starting point
+8. M starts the magnet powerup which lasts for 10 seconds.
+Note: Magnet can be used only once.
+9. Q quits the game.
+------------------
